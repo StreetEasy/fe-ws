@@ -19,7 +19,7 @@ Make any assumptions that you need to. If you want to add any extra touches that
 
 ## User Stories
 
-[Designs](https://www.dropbox.com/s/b0u47ak0wrn1jk1/designexercise.png?dl=0) and [original Sketch files](https://www.dropbox.com/s/by0jehql8ikwgfa/designexercise_assets.zip?dl=0).
+[Designs](http://s3.amazonaws.com/img-dev.streeteasy.com/nyc/documents/fe-ws/Front%20End%20Code%20Exercise%20r2.png) and [original Sketch files](http://img-dev.streeteasy.com.s3.amazonaws.com/nyc/documents/fe-ws/designexercise_r2_assets.zip).
 
 ### View listings
 
