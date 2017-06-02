@@ -61,7 +61,7 @@ $ bundle install
 This is a [Sinatra](http://www.sinatrarb.com/documentation.html) application. To run the application:
 
 ```
-$ bundle exec rerun 'rackup'
+$ bundle exec rackup
 ```
 
 If everything has installed correctly, this should start an application on [http://localhost:9292/](http://localhost:9292/).
@@ -71,7 +71,7 @@ If everything has installed correctly, this should start an application on [http
 Once your exercise is complete, commit your work, create a patch file and send that to us. Please _do not_ fork this public GitHub repo. We don't want other people copying your work! To create the patch:
 
 ```
-git format-patch origin/master --stdout > fe-ws.patch
+git format-patch origin/master --stdout > fe-ws-[your name].patch
 ```
 
 Good luck and enjoy!
