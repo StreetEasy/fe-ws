@@ -68,7 +68,7 @@ Skip to "Start The Application"
 - Install Ruby `scoop install ruby`
 - Install bundler `gem install bundler`
 
-Next, from the root of this project directory, install the correct version of ruby, bundler and associated gems:
+Next, from the root of this project directory, install the associated gems:
 
 ```
 $ bundle install
