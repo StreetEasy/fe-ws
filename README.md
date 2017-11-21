@@ -1,4 +1,4 @@
-# StreetEasy Frontend Developer Work Sample
+# # StreetEasy Frontend Developer Work Sample
 
 Hello! Thanks for your interest in applying for the frontend developer position at StreetEasy. This is the work sample that we use to evaluate your development skills. We've kept it as close as possible to how we normally work and hope it gives you a feel for the tools and workflow we regularly use.
 
@@ -36,9 +36,7 @@ _As a user on the site I am able to add listings to the cart._
 * The animations work as per the designs.
 * The design must work in both desktop and mobile view.
 
-## Getting up and running
-
-The following instructions assume you are running OS X.
+## Getting up and running (OS X)
 
 ### Install the correct ruby and gems
 
@@ -56,7 +54,26 @@ $ gem install bundler
 $ bundle install
 ```
 
-### Start the application
+- - - -
+
+## Getting up and running (Windows)
+
+### Install the correct ruby and gems
+
+- Run [PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-5.1) as Administrator
+- Install [Scoop Package Manager](http://scoop.sh/)
+- Install Git  `scoop install git`
+- Add the Scoop Versions Bucket  `scoop bucket add versions`
+- Install Ruby `scoop install ruby`
+- Install bundler `gem install bundler`
+
+Next, from the root of this project directory, install the correct version of ruby, bundler and associated gems:
+
+```
+$ bundle install
+```
+
+## Start the application
 
 This is a [Sinatra](http://www.sinatrarb.com/documentation.html) application. To run the application:
 
