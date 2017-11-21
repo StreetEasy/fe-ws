@@ -53,6 +53,7 @@ $ rbenv install
 $ gem install bundler
 $ bundle install
 ```
+Skip to "Start The Application"
 
 - - - -
 
